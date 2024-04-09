@@ -1,0 +1,28 @@
+.subtitle {
+    color: $subtitle;
+}
+
+
+.primary {
+    color: $primary-color;
+}
+
+.secondary {
+    color: $secondary-color;
+
+}
+
+
+.bg-primary {
+    background-color: $primary-color;
+}
+
+.bg-secondary {
+    background-color: $secondary-color;
+}
+
+.progressBar {
+    border: 3px solid $black;
+    width: 100%;
+    padding: 3px;
+}

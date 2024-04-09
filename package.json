@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "compile-sass": "^2.0.0",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "sass": "^1.74.1"
+  }
+}
