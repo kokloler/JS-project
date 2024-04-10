@@ -1,9 +1,3 @@
-$body: white;
-$title: #007BFF;
-$subtitle: #007BFF;
-$black: #191818;
-$primary-color: #007BFF;
-$secondary-color: #6C757D;
 
 body {
     background-color: $body;
@@ -23,39 +17,4 @@ body {
             text-align: center;
         }
     }
-}
-
-.subtitle {
-    color: $subtitle;
-}
-
-.black {
-    color: $black;
-}
-
-.primary {
-    color: $primary-color;
-}
-
-.secondary {
-    color: $secondary-color;
-
-}
-
-.bg-dark {
-    background-color: $body;
-}
-
-.bg-primary {
-    background-color: $primary-color;
-}
-
-.bg-secondary {
-    background-color: $secondary-color;
-}
-
-.progressBar {
-    border: 3px solid $black;
-    width: 100%;
-    padding: 3px;
 }
